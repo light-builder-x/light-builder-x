@@ -72,7 +72,7 @@ My journey into software engineering is unconventional - transitioning from U.S.
 
 ### 📫 Let's Connect
 
-- 💼 [Open to opportunities - reach out via GitHub](https://github.com/yourusername)
+- 💼 [Open to opportunities - reach out via GitHub](https://github.com/light-builder-x)
 - 📍 Location: Orlando, FL
 - 💼 Open to collaborating on: API development, cloud architecture, AI/ML integration projects
 
