@@ -1,4 +1,4 @@
-# Hi there, I'm Coddie (pronounced Cah-dhee) Curry 👋
+# Hi there, I'm Coddie (pronounced Cah-dhee) 👋
 
 ## API Software Development Engineer II | Data Scientist | Data Engineer | Data Analytics
 
