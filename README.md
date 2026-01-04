@@ -1,6 +1,6 @@
 # Hi there, I'm Coddie Curry 👋
 
-## API Software Development Engineer II | Data Scientist | Cloud Architecture Enthusiast | Veteran
+## API Software Development Engineer II | Data Scientist | Data Engineer | Data Analytics
 
 I'm a backend engineer passionate about building scalable API infrastructure and cloud-native solutions. Currently architecting enterprise-level financial systems at Synchrony Financial, with a focus on AWS migration, microservices, and AI-driven data innovation.
 
