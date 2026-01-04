@@ -61,18 +61,6 @@ CloudBees | Maven | Data Lakes
 
 My journey into software engineering is unconventional - transitioning from U.S. Army leadership roles where I managed complex operations and supply chains to building the backend systems that power modern financial platforms. I bring operational discipline, strategic thinking, and a mission-driven mindset to every line of code I write.
 
-### 📫 Let's Connect
-
-- 💼 [Open to opportunities - reach out via GitHub](https://github.com/light-builder-x)
-- 📍 Location: Orlando, FL
-- 💼 Open to collaborating on: API development, cloud architecture, AI/ML integration projects
-
-### ⚡ Fun Facts
-
-- I speak, read, and write Arabic and Farsi
-- Can play the piano and violin
-- Always learning - currently diving deeper into AI and data engineering
-
 ---
 
 *"Building systems that scale, one API at a time."*
