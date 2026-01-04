@@ -57,15 +57,6 @@ Git (GitHub/Bitbucket) | Postman & Insomnia | Splunk | Jira | GitHub Copilot
 CloudBees | Maven | Data Lakes
 ```
 
-### 🎓 Education & Certifications
-
-- 🎓 **MS in Data Science and Analytics** - Florida Atlantic University (In Progress)
-- 🎓 **MA in International Relations** - University of Oklahoma
-- 🎓 **BS in Arabic and Farsi (Minor: Cybersecurity)** - USMA West Point
-- ☁️ **AWS Cloud Practitioner**
-- 💻 **Backend, SQL, and DevOps Bootcamp** - Nucamp
-- 📱 **Product Management & Web Development** - Cornell University
-
 ### 🌟 From the Field to Full-Stack
 
 My journey into software engineering is unconventional - transitioning from U.S. Army leadership roles where I managed complex operations and supply chains to building the backend systems that power modern financial platforms. I bring operational discipline, strategic thinking, and a mission-driven mindset to every line of code I write.
